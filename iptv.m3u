@@ -22,7 +22,7 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 
 
 #EXTINF:-1,Dflix: &flix
-http://tv.dflix.live:8082/78/mono.m3u8?token=bed2b1f844d62928e597c9a638578c3b7009d7aa-bd1697545031374ef671cbec049495ff-1606069822-1606059022&remote=10.13.115.81
+http://tvcdn.dflix.live:8082/78/mono.m3u8?token=bb4cd57159764fd0137a9ee12ab650ba02491d2a-3074386056c7c9810c80c357db7d506f-1608407613-1608396813&remote=10.13.115.81
 #EXTINF:-1,Dflix: MNX
 http://tv.dflix.live:8082/39/mono.m3u8?token=afcc17ec70272e885cd2d2467f82bad89fa79be0-b1ba6998e4b6924e6bf8f9a1d0dd5bf1-1602190317-1602179517&remote=10.13.115.81
 #EXTINF:-1,Ebox: Movies Now
