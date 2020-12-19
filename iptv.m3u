@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Dflix: Duranto
-http://tv.dflix.live:8082/10/mono.m3u8?token=28caf8ac49b2136d8bf2b25e8f57efbdb4897575-f2752b0ea364981198b5da0b0a54ea2c-1606063782-1606052982&remote=10.13.115.81
+http://tvcdn.dflix.live:8082/10/mono.m3u8?token=47ecb601d2ad14578e828027c51e782f7ded774c-e1bb8e4bb94aa73ad659fac0b978321a-1608406222-1608395422&remote=10.13.115.81
 #EXTINF:-1,CTGIP: DURONTO-TV
 http://ctgiptv.kitv.live:1935/live/test/test1/12.ts
 #EXTINF:-1,ftpbd: DURONTO-TV
