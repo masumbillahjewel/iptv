@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Dflix: Duranto
-http://tvcdn.dflix.live:8082/10/mono.m3u8?token=47ecb601d2ad14578e828027c51e782f7ded774c-e1bb8e4bb94aa73ad659fac0b978321a-1608406222-1608395422&remote=10.13.115.81
+http://tvcdn.dflix.live:8082/10/mono.m3u8?token=4b403d2e10814495873f07fad835ccf88b4a4b94-119cd54cae83e91b3433b7e99b944e13-1608569283-1608558483&remote=10.13.115.81
 #EXTINF:-1,CTGIP: DURONTO-TV
 http://ctgiptv.kitv.live:1935/live/test/test1/12.ts
 #EXTINF:-1,ftpbd: DURONTO-TV
@@ -22,7 +22,7 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 
 
 #EXTINF:-1,Dflix: &flix
-http://tvcdn.dflix.live:8082/78/mono.m3u8?token=bb4cd57159764fd0137a9ee12ab650ba02491d2a-3074386056c7c9810c80c357db7d506f-1608407613-1608396813&remote=10.13.115.81
+http://tvcdn.dflix.live:8082/78/mono.m3u8?token=18648dce296f4e7c8c2482c5797184297c297653-1477a5530f51d97ba9ce5f1f23c035ea-1608569330-1608558530&remote=10.13.115.81
 #EXTINF:-1,Dflix: MNX
 http://tv.dflix.live:8082/39/mono.m3u8?token=afcc17ec70272e885cd2d2467f82bad89fa79be0-b1ba6998e4b6924e6bf8f9a1d0dd5bf1-1602190317-1602179517&remote=10.13.115.81
 #EXTINF:-1,Ebox: Movies Now
