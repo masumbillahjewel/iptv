@@ -7,8 +7,12 @@ https://rhridoy136.shortcm.li/durontotv.m3u8
 http://ctgiptv.kitv.live:1935/live/test/test1/12.ts
 #EXTINF:-1,ftpbd: DURONTO-TV
 http://otv.ftpbd.net/streams/119/index.m3u8
-
-
+#EXTINF:-1,Dflix: SonyPix
+http://tvcdn.dflix.live:8082/41/mono.m3u8?token=f9ace752a0128a202c279bea61c859631d8b85c6-02d06dc01a0e7254a949a2f5309f513b-1608922670-1608911870&remote=10.13.115.81
+#EXTINF:-1,Dflix: HBO
+http://tvcdn.dflix.live:8082/42/mono.m3u8?token=67f266e28d1a8da6d16d5311d44346d6dca7e126-02a8c6b7e0fba4a3f4f125cce9b7abc1-1608922755-1608911955&remote=10.13.115.81
+#EXTINF:-1,Dflix: &flix
+http://tvcdn.dflix.live:8082/78/mono.m3u8?token=3c9c03101777624706fdca0e26c6ee8c1c89d7ca-38052da0266dd82c7b147bc154b618db-1608922813-1608912013&remote=10.13.115.81
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Movies",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
