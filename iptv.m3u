@@ -27,6 +27,14 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="& Flix HD" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/flix-280-200.png" group-title="Movies",& Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Movies" ,Star Movies HD_ebox
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Movies" ,Sony Pix HD_ebox
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Movies" ,HBO_ebox
+http://tv2.ebox.live:8080/live/hbo.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/9whd4No.png" group-title="Movies",HBO
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="Movies",HBO
