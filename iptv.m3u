@@ -16,8 +16,14 @@ http://tvcdn.dflix.live:8082/78/mono.m3u8?token=3c9c03101777624706fdca0e26c6ee8c
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Movies",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Family Movies HD" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Family Movies HD
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Movies" ,Star Movies HD_ebox
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Movies" ,Sony Pix HD_ebox
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Movies" ,HBO_ebox
+http://tv2.ebox.live:8080/live/hbo.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Movies",& Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="& PrivÃ© HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movies",& PrivÃ© HD
@@ -26,13 +32,13 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="& Flix HD" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/flix-280-200.png" group-title="Movies",& Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="Movies",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC MAX HD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="Movies",MBC MAX HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Action HD" tvg-logo="https://i.imgur.com/diJCR16.png" group-title="Movies",MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Movies" ,Star Movies HD_ebox
-http://tv2.ebox.live:8080/live/star-movies.m3u8
-#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Movies" ,Sony Pix HD_ebox
-http://tv2.ebox.live:8080/live/sony-pix.m3u8
-#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Movies" ,HBO_ebox
-http://tv2.ebox.live:8080/live/hbo.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/9whd4No.png" group-title="Movies",HBO
@@ -54,19 +60,11 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Cinemax
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="Movies",MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MBC 3" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Action HD" tvg-logo="https://i.imgur.com/diJCR16.png" group-title="Movies",MBC Action HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC MAX HD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="Movies",MBC MAX HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/550px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Duronto TV" tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg/revision/latest?cb=20190624161303" group-title="Movies",Duronto TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Movie Kingdom HD" tvg-logo="https://image.roku.com/developer_channels/prod/eec31809f3d6d71fced82e9d9143a57637a6b9b80f5474e67feb1d5ffc482884.png" group-title="Movies",Movie Kingdom (No Break)
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie Kingdom" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Movies",Movie Kingdom
@@ -80,6 +78,9 @@ http://51.52.156.22:8888/http/009
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iFILM English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
 https://live1.presstv.com/live/ifilmen.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Duronto TV" tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg/revision/latest?cb=20190624161303" ,Duronto TV
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 
 
 #EXTINF:-1,ftpbd: HBO
