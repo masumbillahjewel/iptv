@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Dflix: Duranto
-http://tv.dflix.live:8082/10/mono.m3u8?token=90ca15fcc50d788d3653f67070f81e2e753b91d1-ac9a7ee3aef3f0e222ad110f600adee3-1610969180-1610958380&remote=10.13.115.81
+http://172.16.172.78:8082/10/mono.m3u8?token=eb855e44e2f68b39c5ba56ece4257e3b32269faa-8253fd7b8204eef02beb0b9bc555ef68-1611684197-1611673397&remote=10.13.115.81
 #EXTINF:-1,??: Duranto
 https://rhridoy136.shortcm.li/durontotv.m3u8
 #EXTINF:-1,CTGIP: DURONTO-TV
@@ -12,7 +12,7 @@ http://tvcdn.dflix.live:8082/41/mono.m3u8?token=f9ace752a0128a202c279bea61c85963
 #EXTINF:-1,Dflix: HBO
 http://tvcdn.dflix.live:8082/42/mono.m3u8?token=67f266e28d1a8da6d16d5311d44346d6dca7e126-02a8c6b7e0fba4a3f4f125cce9b7abc1-1608922755-1608911955&remote=10.13.115.81
 #EXTINF:-1,Dflix: &flix
-http://tvcdn.dflix.live:8082/78/mono.m3u8?token=3c9c03101777624706fdca0e26c6ee8c1c89d7ca-38052da0266dd82c7b147bc154b618db-1608922813-1608912013&remote=10.13.115.81
+http://172.16.172.78:8082/78/mono.m3u8?token=c848d6ae86932f8721f0d267d5bf82d244cbce08-77bc4f11318593893529484dab460de5-1611684072-1611673272&remote=10.13.115.81
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Movies",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
