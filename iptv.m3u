@@ -83,6 +83,7 @@ https://live1.presstv.com/live/ifilmen.m3u8
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 
 
+
 #EXTINF:-1,ftpbd: HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1,ftpbd: StarMovies
@@ -103,69 +104,51 @@ http://tv.dflix.live:8082/69/mono.m3u8?token=50189e76b4a1107c72b6c028230c3724125
 http://tv.dflix.live:8082/79/mono.m3u8?token=42349551e0e2daa2840a516831a8862dda8354dc-ace38d52dbc516c51ab48b91f6086b82-1606064675-1606053875&remote=10.13.115.81
 
 
-#EXTINF:-1,Dflix: GTV
-http://tv.dflix.live:8082/1/mono.m3u8?token=0a506e8389f5707398ea9466721ad470443ebec6-8754cc6fb3c0b1a9d1222331af9c0b13-1606069046-1606058246&remote=10.13.115.81
-#EXTINF:-1,Dflix: Jamuna
-http://tv.dflix.live:8082/13/mono.m3u8?token=c156792f92ee03a3f0d8834c7f4c876772b326d5-1e1fffd5b514c2bc19bffae5bc297fb0-1601390181-1601379381&remote=10.13.115.81
-#EXTINF:-1,Dflix: Somoy
-http://tv.dflix.live:8082/17/mono.m3u8?token=3fe87f0869ce3beaa00fbaa23df0769a27ad68f6-2aeddfe6a8f080bbd5c63ec657f8edb1-1606069084-1606058284&remote=10.13.115.81
-#EXTINF:-1,Dflix: ChannelI
-http://tv.dflix.live:8082/6/mono.m3u8?token=6f3a053925787e07c6c24d32e8d5ded15556ed61-b285982b48b969a0d0682def128e7028-1606069110-1606058310&remote=10.13.115.81
-#EXTINF:-1,Dflix: News24
-http://tv.dflix.live:8082/18/mono.m3u8?token=e23bf7eb862540bc8a32f863035d6d99af5e8042-f4569d4d0654160587b5a1cdc923810c-1606069134-1606058334&remote=10.13.115.81
-#EXTINF:-1,Dflix: Masranga
-http://tv.dflix.live:8082/51/mono.m3u8?token=6465ac2b258d9522a9f5485b9422d113a013b41b-226b5c6f54874740431abb4af4080481-1606069158-1606058358&remote=10.13.115.81
-#EXTINF:-1,Dflix: ETV
-http://tv.dflix.live:8082/65/mono.m3u8?token=c1b251d55aa2b1bc68c1f2fa25afb2951c0d804a-9feb5d466b56c947865786ca7e5d599d-1606069178-1606058378&remote=10.13.115.81
-#EXTINF:-1,Dflix: Channel 24
-http://tv.dflix.live:8082/5/mono.m3u8?token=27fd6f7594de7cef4b54bbbfdb3ed3dacd28d77a-af50e9f990892d654d5960f928449522-1606069201-1606058401&remote=10.13.115.81
-#EXTINF:-1,Dflix: Independent
-http://tv.dflix.live:8082/12/mono.m3u8?token=fda97a3f329a1631b6d2ead250b90acf7dbdc797-c48093fa4dfac84dbe013b9b18d29031-1606069224-1606058424&remote=10.13.115.81
-#EXTINF:-1,Dflix: BTV
-http://tv.dflix.live:8082/53/mono.m3u8?token=7a819817788a5978516aec4e328ad190da179d9a-b5b3b764260b437a7c63c74048eb9587-1606069247-1606058447&remote=10.13.115.81
-#EXTINF:-1,Dflix: RTV
-http://tv.dflix.live:8082/14/mono.m3u8?token=0eb7c53e76129586109d01927bf869b6e7beffa3-b4cac350c5b9dd76c70ebaa913233e13-1606069276-1606058476&remote=10.13.115.81
-#EXTINF:-1,Dflix: NTV
-http://tv.dflix.live:8082/54/mono.m3u8?token=07a3f534808abb88b042de9453ea7607e2eeea03-83b43cc6f9fe2978ab42f9b0d1983178-1606069297-1606058497&remote=10.13.115.81
-#EXTINF:-1,Dflix: BanglaVision
-http://tv.dflix.live:8082/3/mono.m3u8?token=1ca466b8f307051cdd7010d5c600e7bafe7172d3-b6de6c5df36c4b5333b45a299f05f47d-1606069322-1606058522&remote=10.13.115.81
-#EXTINF:-1,Dflix: ATNBangla
-http://tv.dflix.live:8082/2/mono.m3u8?token=86eeed2eefddce67ffa283a65f41241405d1f0ca-aa50e7352822083a10e4f61677b9b552-1606069342-1606058542&remote=10.13.115.81
-#EXTINF:-1,Dflix: Channel9
-http://tv.dflix.live:8082/4/mono.m3u8?token=d5a09eae3788a1dcb6ce91bea19ff9c0e2cfe6f5-d6e8a34c73eefa62cd268d873e736961-1606069366-1606058566&remote=10.13.115.81
-#EXTINF:-1,Dflix: DBC
-http://tv.dflix.live:8082/7/mono.m3u8?token=69b1c3a7a035fd897864d7e562d0ab1c8b0c5c67-67002c499063e97c03e90de2384c53ee-1606069399-1606058599&remote=10.13.115.81
-#EXTINF:-1,Dflix: MYTV
-http://tv.dflix.live:8082/56/mono.m3u8?token=1df1c707c4ced23609d9814394251da131543b12-2a6b7f70ed9cae97bbc21b41ab08447a-1606069428-1606058628&remote=10.13.115.81
-#EXTINF:-1,Dflix: Dipto
-http://tv.dflix.live:8082/8/mono.m3u8?token=5d80d9b90e9a850ace6cd30ac579d8fcf0666cf9-729499a7de3e29e2754be199b18c984d-1606069460-1606058660&remote=10.13.115.81
-#EXTINF:-1,Dflix: SATV
-http://tv.dflix.live:8082/15/mono.m3u8?token=443819f81f13911b4f56d9b7353d78ea73f0236e-896c34b177192999ff7bb35a12d90028-1606069483-1606058683&remote=10.13.115.81
-#EXTINF:-1,Dflix: Ekattor
-http://tv.dflix.live:8082/11/mono.m3u8?token=a1d020423e6de674ad5f56a2aed302de1e2f53f5-305a32fdd4bb4629c98f210b75154150-1606069507-1606058707&remote=10.13.115.81
-#EXTINF:-1,Dflix: AsainTV
-http://tv.dflix.live:8082/62/mono.m3u8?token=4e288deff58644bd63d7844c627a049b0c46073e-0d64b2d3851ed4d90c96ba3135009854-1606069531-1606058731&remote=10.13.115.81
-#EXTINF:-1,Dflix: Boishakhi
-http://tv.dflix.live:8082/61/mono.m3u8?token=14cdf1b2a446e4314a47fb4ccf12d60e0e35d9cf-2695993c05a80482f8785aab0a7b1381-1606069553-1606058753&remote=10.13.115.81
-#EXTINF:-1,Dflix: Nagorik
-http://tv.dflix.live:8082/59/mono.m3u8?token=6ac5bed07535336835d3f11c6dbb8c58e7260682-c9a9a92d91320f7fa9eca6394cc333cc-1606069575-1606058775&remote=10.13.115.81
-#EXTINF:-1,Dflix: Mohona
-http://tv.dflix.live:8082/50/mono.m3u8?token=6bff346aa31b7dc4622eedacc88a03860c09a60e-fb6345ebf3af6049fcfc8f3cb5230d46-1606069598-1606058798&remote=10.13.115.81
-#EXTINF:-1,Dflix: BanglaTV
-http://tv.dflix.live:8082/19/mono.m3u8?token=990201ba3ef53352825610c374b23372d632bcd7-2e1aa8a5651fb887c3222ebf14e2c446-1606069624-1606058824&remote=10.13.115.81
-#EXTINF:-1,Dflix: Ananda
-http://tv.dflix.live:8082/16/mono.m3u8?token=d9b79d8bf63891ba0c22b46e23a905315316d49f-0976c04ab95e849d75a608d75b1ef1e9-1606069643-1606058843&remote=10.13.115.81
-#EXTINF:-1,Dflix: ATNNews
-http://tv.dflix.live:8082/49/mono.m3u8?token=017a9b431135900867aaf7572d6ffd48d00ee572-ae6e3e2cfaf4049ed86a4aeec9fa657b-1606069668-1606058868&remote=10.13.115.81
-#EXTINF:-1,Dflix: BanglaTV
-http://tv.dflix.live:8082/19/mono.m3u8?token=7ce3bf49f539df60a14384f0a2643f0234592267-3c2334955b036d54ac8e729991dfc362-1606069694-1606058894&remote=10.13.115.81
-#EXTINF:-1,Dflix: DeshTV
-http://tv.dflix.live:8082/9/mono.m3u8?token=31bd577e1646c6d84fe2f3d477c8e617cffc9b67-c7cd02985a8a71445617533fbd76610a-1606069727-1606058927&remote=10.13.115.81
-#EXTINF:-1,Dflix: Star JalsaHD
-http://tv.dflix.live:8082/30/mono.m3u8?token=39cbd486104c4e5bb642d517c5e497292574d718-ffdf8864452e9e96837fc5df838aa16e-1606069766-1606058966&remote=10.13.115.81
-#EXTINF:-1,Dflix: Star Plus
-http://tv.dflix.live:8082/38/mono.m3u8?token=97be7d9d21512f7ade912f8cafa10795ea376a27-4076457317e39e19bfc8066bb223a64e-1606070004-1606059204&remote=10.13.115.81
-#EXTINF:-1,Dflix: BBC
-http://tv.dflix.live:8082/44/mono.m3u8?token=d44e84c7d4d521be843f2b3c610bcc58f98233c7-4fda42bbbbd2d82669fc86924b0e5605-1606069922-1606059122&remote=10.13.115.81
-#EXTINF:-1,Dflix: GB
-http://172.16.172.78:8082/58/mono.m3u8?token=ecd244bcbdfee9e18ff64365f356471ba4d73fd2-436af1f37c6d25dc0ab26401a1390446-1612466834-1612456034&remote=10.13.115.135
+#EXTINF:-1 tvg-ID="" tvg-name="MAASRANGA TV" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600006914542/qkPIawNCapl961MsaWQ7VlTKsTkjQdxS3uzWMrJTCue1af58r_ZQNlbCV2ZHjO5HAV-i=w300?v=1" group-title="BD",MAASRANGA TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/sd/ipgVRU2qhw3.png?x91288" group-title="BD",Shomoy TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8?Live-TV™
+#EXTINF:-1 tvg-ID="" tvg-name="NTV" tvg-logo="http://10.16.100.244/files/ntv(1).png" group-title="BD",NTV
+http://10.16.100.205/hls/ntv_b_720.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NTV" tvg-logo="http://10.16.100.244/files/ntv(1).png" group-title="BD",NTV 1
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BD",Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/net.gurujibd.jamunanews/03f1bde0-c9c2-11e8-86b5-4d489533d1b4/128x128" group-title="BD",Jamuna TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/dbcnews(1).png" group-title="BD",DBC NEWS
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/deeptotv.png" group-title="BD",DEEPTO TV
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/mohona(3).png" group-title="BD",MOHONA TV
+http://10.16.100.205/hls/mohona_tv_720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/news24(1).png" group-title="BD",NEWS 24
+http://10.16.100.203:8082/bangla/24newshd_720.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y23rc8ks" group-title="BD",Gaan Bangla
+http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y23rc8ks" group-title="BD",Gaan Bangla 1
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="EKUSHEY TV" tvg-logo="https://www.ssl.com.bd/sites/default/files/styles/medium/public/ekushe%20tv_1.png?itok=VBwT83hA" group-title="BD",EKUSHEY TV
+http://10.16.100.205/hls/21etv.m3u8
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="CHANNEL 9 HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BD",CHANNEL 9 HD
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BD",Desh TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://likeetv.com/uploads/tv_image/channel24.jpg" group-title="BD",CHANNEL 24
+http://10.16.100.205/hls/ch24.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/QpqeP9ESAObd_5U3KyL-ag2jZCjRg7Epa29YtOZXwYpq7rSnSHSGL4DjuTFXefF_Sx-UGWF_fy7HAnv2PK_FsXgscRR91_qzDqzU3Sze=s0-d" group-title="BD",RTV
+http://10.16.100.203:8082/bangla/TV_R.m3u8
+#EXTINF:-1 tvg-logo="https://banglavision.tv/wp-content/uploads/2017/05/logo.png" group-title="",Banglavision 1
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="BD",Independent
+https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/asiantv.png" group-title="BD",ASIAN TV
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="BD",ATN Bangla
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="BD",ATN News
+http://10.16.100.205/hls/news_atn_london720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/banglatv.png" group-title="BD",BANGLA TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/channeli.png" group-title="BD",Channel I
+http://10.16.100.205/hls/ch_i.m3u8
