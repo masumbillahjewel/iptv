@@ -152,3 +152,127 @@ http://10.16.100.205/hls/news_atn_london720.m3u8
 http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/channeli.png" group-title="BD",Channel I
 http://10.16.100.205/hls/ch_i.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,TEbox2s
+http://tv2.ebox.live:8080/live/ex-titash2.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Ten Ebox2s
+http://tv2.ebox.live:8080/live/ten-Ebox2s.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Sony Espn
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Sony Six HD
+http://tv2.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Sony Ten 1
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Sony Ten 2
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Sony Ten 3
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Willow Cricket HD
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Sky Ebox2s Cricket
+http://tv2.ebox.live:8080/live/Sky-Ebox2s-cric.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Sky Ebox2s Mix
+http://tv2.ebox.live:8080/live/Sky-Ebox2s-Mix.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,PTV Ebox2s
+http://tv2.ebox.live:8080/live/ptvEbox2s.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Bein Ebox2s HD1
+http://tv2.ebox.live:8080/live/bein-Ebox2s-1.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Bein Ebox2s HD2
+http://tv2.ebox.live:8080/live/bein-Ebox2s-2.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Bein Ebox2s HD11 Ebox2
+http://tv2.ebox.live:8080/live/bein-Ebox2s-eng-11.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Bein Ebox2s 1 France
+http://tv2.ebox.live:8080/live/bein-Ebox2s-fr-1.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Star Ebox2s 1
+http://tv2.ebox.live:8080/live/starEbox2s-1.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Star Ebox2s 1 Ebox2
+http://tv2.ebox.live:8080/live/starEbox2s-1-hind.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Star Ebox2s HD 2
+http://tv2.ebox.live:8080/live/starEbox2shd-2.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Star Ebox2s 3
+http://tv2.ebox.live:8080/live/starEbox2s-3.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Star Ebox2s Select HD 1
+http://tv2.ebox.live:8080/live/starEbox2sselect-1.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2s" ,Star Ebox2s Select HD 2
+http://tv2.ebox.live:8080/live/starEbox2sselect-2.m3u8
+
+
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Channel9
+http://tv2.ebox.live:8080/live/channel9.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Jamuna TV
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Channel 24
+http://tv2.ebox.live:8080/live/ch24s1.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Ebox2vision
+http://tv2.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Atn Ebox2
+http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,RTV
+http://tv2.ebox.live:8080/live/rtv.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,News 24
+http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Boishakhi TV
+http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,DBC
+http://tv2.ebox.live:8080/live/dbc.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Atn News
+http://tv2.ebox.live:8080/live/ex-atnae.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Gaan Ebox2
+http://tv2.ebox.live:8080/live/ex-gan.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Maasranga Television
+http://tv2.ebox.live:8080/live/maasranga.m3u8
+
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Jalsha Movies HD
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Zee Ebox2 Cinema
+http://tv2.ebox.live:8080/live/zee-cinema-Ebox2.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Zee Ebox2 HD
+http://tv2.ebox.live:8080/live/zee-Ebox2.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Star Jalsha HD
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Colors Ebox2 HD
+http://tv2.ebox.live:8080/live/colors-Ebox2.m3u8
+
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Star Movies HD
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Sony Pix HD
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,HBO
+http://tv2.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Colors Infinity
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Sony Entertainment
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Sony Sab
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Colors HD
+http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Star Plus HD
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Zee TV
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Sony Max HD
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Sony Max 2
+http://tv2.ebox.live:8080/live/sony-max-2.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Zee Cinema HD
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Star Gold HD
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Star Gold Select HD
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Discovery HD
+http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,National Geographic
+http://tv2.ebox.live:8080/live/natg.m3u8
+
+#EXTINF:-1 tvg-logo="replace with logo link and extension(.png/.jpg)" group-title="Ebox2" ,Nick
+http://tv2.ebox.live:8080/live/nick.m3u8
+
+
+
