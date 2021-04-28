@@ -20,17 +20,17 @@ http://172.16.172.78:8082/78/mono.m3u8?token=c848d6ae86932f8721f0d267d5bf82d244c
 
 #EXTINF:-1,group-title="Movies",FOX MOVIES PREMIUM (1)
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8?Live-TV™
-#EXTINF:-1 ,FOX MOVIES PREMIUM (2), group-title="Movies"
+#EXTINF:-1,group-title="Movies",FOX MOVIES PREMIUM (2)
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 ,Fox HD, group-title="Movies"
+#EXTINF:-1,group-title="Movies",Fox HD 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 ,AXN, group-title="Movies"
+#EXTINF:-1,group-title="Movies",AXN 
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8?Live-TV™
-#EXTINF:-1 ,Paramount HD, group-title="Movies"
+#EXTINF:-1,group-title="Movies",Paramount HD 
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
-#EXTINF:-1 ,Cinemax (3), group-title="Movies"
+#EXTINF:-1,group-title="Movies",Cinemax 
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8?Live-TV™
-#EXTINF:-1 ,Sony Movies Action, group-title="Movies"
+#EXTINF:-1,group-title="Movies",Sony Movies Action 
 http://51.52.156.22:8888/http/009
 
 
