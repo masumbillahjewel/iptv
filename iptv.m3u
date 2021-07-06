@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:-1,Dflix: Duranto_mahir
+#EXTINF:-1,Dflix: Duranto_Mahir
 http://172.16.172.78:8081/roarzone/10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTE6NDQ6MjkgQU0maGFzaF92YWx1ZT1GcnlneCszYjYxMGM1b3gzQTdEa0dRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU
+
 #EXTINF:-1,Dflix: Duranto1
-http://tvcdn.dflix.live:8082/10/mono.m3u8?token=2160b59d2099e9357dd92a65effa68bd3e1cfab3-22e5c935f29e4cd3dbf9ca208f79ab78-1615044691-1615033891&remote=10.13.115.135
+http://172.16.172.78:8081/roarzone/10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTE6NDk6MDggQU0maGFzaF92YWx1ZT1IMzJ3NDR3Z1ArcjFka2wxT3o1VDRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU
 
 #EXTINF:-1,??: Duranto
 https://rhridoy136.shortcm.li/durontotv.m3u8
