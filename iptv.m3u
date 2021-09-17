@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Dflix: Duranto_Mahir
-http://172.16.172.78:8081/roarzone/10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTE6NDQ6MjkgQU0maGFzaF92YWx1ZT1GcnlneCszYjYxMGM1b3gzQTdEa0dRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 
 #EXTINF:-1,Dflix: Duranto1
 http://172.16.172.78:8081/roarzone/10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTE6NDk6MDggQU0maGFzaF92YWx1ZT1IMzJ3NDR3Z1ArcjFka2wxT3o1VDRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU
